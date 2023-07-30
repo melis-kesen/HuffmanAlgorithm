@@ -1,0 +1,6 @@
+In key1.txt and key2.txt, the sentences contains all 26 letters of the English alphabet.Such a sentence is called a “pangram".
+-In this way, we create a tree structure containing all the letters by using all the letters in the English alphabet.
+-We create an encryption algorithm with the passwords we use.
+-These passwords are "YOU_SHALL_NOT_PASS" from LOTR, "IT_IS_OVER_ANAKIN_I_HAVE_THE_HIGH_GROUND" from Star Wars, "LILY_AFTER_ALL_THIS_TIME" from Harry Potter(which is my favorite) 
+:)
+NOT: In my PC, "# timeout: 2" is not work, so i changed as a "# timeout: 5"
